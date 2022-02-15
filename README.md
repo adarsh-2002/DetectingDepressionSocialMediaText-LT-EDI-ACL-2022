@@ -1,4 +1,4 @@
-# DetectingDepressionSocialMediaText-LT-EDI-ACL-20222022
+# DetectingDepressionSocialMediaText-LT-EDI-ACL-2022
 Repository of Code for the Shared task on Detecting Signs of Depression from Social Media Text at LT-EDI 2022- ACL 2022
 
 This is the code submitted by team SSN for WORKSHOP ON LANGUAGE TECHNOLOGY FOR EQUALITY, DIVERSITY, INCLUSION at ACL-2022
