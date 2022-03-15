@@ -4,7 +4,8 @@ Repository of Code for the Shared task on Detecting Signs of Depression from Soc
 This is the code submitted by team SSN for WORKSHOP ON LANGUAGE TECHNOLOGY FOR EQUALITY, DIVERSITY, INCLUSION at ACL-2022
 
 This repository contains datasets obtained from the organizers of the shared task.
-The link to the CodaLab competetion has been provided.
+The link to the CodaLab competition has been provided.
+https://competitions.codalab.org/competitions/36410
 
 The brief description of the different models implemented is given below
 
